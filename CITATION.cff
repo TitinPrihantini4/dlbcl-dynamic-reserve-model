@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software or computational framework, please cite it using the metadata below."
+
+title: "DLBCL Dynamic Reserve Model"
+
+type: software
+
+authors:
+  - name: "Prihantini"
+
+repository-code: "https://github.com/TitinPrihantini4/dlbcl-dynamic-reserve-model"
+
+url: "https://github.com/TitinPrihantini4/dlbcl-dynamic-reserve-model"
+
+license: MIT
+
+abstract: >-
+  A reproducible theoretical regime-switching computational framework
+  describing the interaction between treatment intensity, hematologic
+  reserve, functional recovery, disease burden, and comorbidity during
+  first-line therapy for diffuse large B-cell lymphoma (DLBCL).
+  The repository provides the computational implementation and
+  reproducibility materials for scenario analysis, sensitivity analysis,
+  uncertainty assessment, and numerical robustness evaluation.
+
+keywords:
+  - diffuse large B-cell lymphoma
+  - DLBCL
+  - mathematical modeling
+  - computational oncology
+  - regime-switching model
+  - relative dose intensity
+  - treatment reserve
+  - sensitivity analysis
+  - uncertainty quantification
+  - reproducible research
